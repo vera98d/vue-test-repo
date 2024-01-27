@@ -52,6 +52,7 @@ h1{
 
 <template>
   <!-- <SignupForm/> -->
+  <div>Hello, testing deployments</div>
   <ContactForm />
 </template>
 
